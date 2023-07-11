@@ -1,4 +1,5 @@
 ![image](https://files.realpython.com/media/Real-Python-Newsletter.b79fb83d39b7.jpg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi 👋, I'm Metin</h1>
 <h3 align="center">👨🏻‍💻 A passionate "Data Scientist" from Turkey</h3>
