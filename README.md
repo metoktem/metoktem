@@ -1,4 +1,4 @@
-
+![snake gif](https://github.com/metoktem/metoktem/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi 👋, I'm Metin</h1>
 <h3 align="center">A passionate "Data Scientist" from Turkey</h3>
